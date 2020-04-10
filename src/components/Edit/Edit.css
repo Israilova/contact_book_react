@@ -1,3 +1,7 @@
+body {
+    margin: 0 auto;
+}
+
 .modail_window {
     position: absolute;
     top: 0;
